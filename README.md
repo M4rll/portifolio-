@@ -13,10 +13,7 @@
     <p> eu sou estudande de exatas no 2° ano do ensino médio </p>
     <p>Minhas habilidades: cooperatividade, trabalho em equipe, comunicação</p>
     <div>
-            <p>HTML</p>
-            <p>CSS</p>
-            <p>JavaScript</p>
-            <p>Scratch</p>
+            
     </div>
 </body>
 </html>
