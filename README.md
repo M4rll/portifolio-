@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css">
-    <title> Meu portfólio </title>
+    Meu portfólio 
 </head>
 <body>
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJBx2G7If80JNwwjGgIqvwW6a6uhtNPM4new&s" alt="avatar do Marllos" srcset="">
