@@ -7,7 +7,7 @@
     Meu portfólio 
 </head>
 <body>
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJBx2G7If80JNwwjGgIqvwW6a6uhtNPM4new&s" alt="avatar do Marllos" srcset="">
+    <img src alt="avatar do Marllos" srcset="">
     <p>Eu sou Marllos_</p>
     <h1>Eu estudo no colegio estadual sagrada família </h1>
     <p> eu sou estudande de exatas no 2° ano do ensino médio </p>
